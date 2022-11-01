@@ -55,3 +55,78 @@ nav > ul{
 .linkpads:hover{
     background-image: linear-gradient(red, orangered);
 }
+.youtube-button{
+    text-transform: uppercase;
+    /* letter-spacing: 0.1em; */
+    text-decoration: none;
+    background-image: linear-gradient(red, #766547);
+    color: white;
+    padding: 20px 40px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.youtube-button:hover{
+    background-image: linear-gradient(orangered, red);
+    border: #000000 solid 2px;
+}
+.telegram-button{
+    text-decoration: none; 
+    background-image: linear-gradient(rgb(13, 69, 147), rgb(71, 194, 255));
+    color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+    font-weight: 500;
+  }
+  .telegram-button:hover{
+    background-image: linear-gradient(rgb(71, 194, 255), rgb(13, 69, 147));
+    border: #000000 solid 2px;
+}
+  .facebook-button{
+    text-decoration: none;
+    background-image: linear-gradient(skyblue, darkblue);
+    padding: 20px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
+.facebook-button:hover{
+    background-image: linear-gradient(darkblue, skyblue);
+    border: #000000 2px solid;
+}
+.instragram-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple, orange);
+    padding: 20px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
+.instragram-button:hover{
+    background-image: linear-gradient(orange, purple);
+    border: #000000 solid 2px;
+}
+#social{
+    margin-left: 31%;
+    margin-top: 2%;
+}
+.joss{
+    background: #66ccff;
+    font-weight: 700;
+    font-size: 30px;
+    align-items: center;
+    border-radius: 10px;
+    border: #000000 2px solid;
+}
+.joss:hover{
+    background-image: linear-gradient(red,black);
+    color: aliceblue;
+}
+#foot{
+    margin-top: 10%;
+    margin-left: 23%;
+    margin-right: 23%;
+    align-items: center;
+}
+footer p{
+    text-align: center;
+}
