@@ -19,8 +19,9 @@ h1{
     text-align: center;
 }
 .mid img{
-    width: 40%;
-    margin-left: 30%;
+    align-content: center;
+    width: 30%;
+    margin-left: 36%;
     opacity: calc(60%);
 }
 article{
@@ -109,4 +110,20 @@ nav > ul{
     margin-left: 31%;
     margin-top: 2%;
 }
-
+footer{
+    text-align: center;
+    padding: 8%;
+    font-weight: 600;
+    font-size: 20px;
+}
+.linkpad{
+    background-image: linear-gradient(rgb(253, 7, 7), #ffe600);
+    color: rgb(1, 0, 0);
+    padding: 20px 40px;
+    font-weight: 520;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.linkpad:hover{
+    background-image: linear-gradient(rgb(0, 247, 255), rgb(5, 76, 255));
+}
