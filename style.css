@@ -23,3 +23,6 @@ h1{
     margin-left: 30%;
     opacity: calc(60%);
 }
+article{
+    text-align: center;
+}
