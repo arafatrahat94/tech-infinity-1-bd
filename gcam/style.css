@@ -35,3 +35,14 @@ nav > ul{
 .linkpads:hover{
     background-image: linear-gradient(red, orangered);
 }
+#first-line{
+    display: flex;
+}
+.separating{
+    margin: 2%;
+    border: 0px solid black;
+    /* border-radius: 20%; */
+}
+.radious{
+    border-radius: 10px;
+}
