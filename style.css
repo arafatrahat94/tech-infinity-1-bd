@@ -1,4 +1,16 @@
 body{
     background-image: linear-gradient(yellow, white);
     background-repeat: no-repeat;
+    margin: 0%;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+    padding-left: 2%;
+}
+.color{
+    color: orangered;
+}
+.sig{
+    color: aqua;
 }
