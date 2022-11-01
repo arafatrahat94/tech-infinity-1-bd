@@ -109,24 +109,4 @@ nav > ul{
     margin-left: 31%;
     margin-top: 2%;
 }
-.joss{
-    background: #66ccff;
-    font-weight: 700;
-    font-size: 30px;
-    align-items: center;
-    border-radius: 10px;
-    border: #000000 2px solid;
-}
-.joss:hover{
-    background-image: linear-gradient(red,black);
-    color: aliceblue;
-}
-#foot{
-    margin-top: 10%;
-    margin-left: 23%;
-    margin-right: 23%;
-    align-items: center;
-}
-footer p{
-    text-align: center;
-}
+
